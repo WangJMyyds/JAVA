@@ -2,6 +2,12 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="01-设计模式.main" target="1.8" />
+      <module name="01-设计模式.test" target="1.8" />
+      <module name="02-数据结构与算法.main" target="1.8" />
+      <module name="02-数据结构与算法.test" target="1.8" />
+      <module name="数据结构与算法.main" target="1.8" />
+      <module name="数据结构与算法.test" target="1.8" />
       <module name="设计模式.main" target="1.8" />
       <module name="设计模式.test" target="1.8" />
     </bytecodeTargetLevel>
